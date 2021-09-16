@@ -16,3 +16,7 @@
 # umi
 .umi
 .umi-production
+
+# hardhat
+artifacts
+cache
